@@ -1,1 +1,1 @@
-# SignLanguageDetection
+# Mobility Aids Detection
