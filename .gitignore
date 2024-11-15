@@ -8,6 +8,7 @@
 /dataset/
 /runs/
 /models/
+/test/
 
 # Files
 
@@ -15,3 +16,5 @@ notebook.ipynb
 yolo11n.pt
 yolov8n.pt
 yolo11l.pt
+yolo11m.pt
+yolo11s.pt
