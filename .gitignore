@@ -1,0 +1,15 @@
+# Virtual environment
+
+/.ml_sign/
+
+# Directories
+
+/document/
+/dataset/
+/runs/
+
+# Files
+
+notebook.ipynb
+yolo11n.pt
+yolov8n.pt
