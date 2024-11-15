@@ -9,6 +9,7 @@
 /runs/
 /models/
 /test/
+/yolo_outputs/
 
 # Files
 
