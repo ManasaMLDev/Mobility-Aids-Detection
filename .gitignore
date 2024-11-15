@@ -1,15 +1,17 @@
 # Virtual environment
 
-/.ml_sign/
+/.ml_mad/
 
 # Directories
 
 /document/
 /dataset/
 /runs/
+/models/
 
 # Files
 
 notebook.ipynb
 yolo11n.pt
 yolov8n.pt
+yolo11l.pt
